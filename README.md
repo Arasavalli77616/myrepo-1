@@ -1,2 +1,2 @@
-# myrepo-1
+# DHANA
 sample repository-1
